@@ -20,7 +20,9 @@ public record ParkingSpotDto(
         @NotBlank
         String apartment,
         @NotBlank
-        String block
+        String block,
+        @NotBlank
+        String registrationDate
 ) {
 
 }
