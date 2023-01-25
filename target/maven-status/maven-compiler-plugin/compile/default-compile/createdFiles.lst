@@ -1,0 +1,6 @@
+com/api/pakingcontrol/PakingControlApplication.class
+com/api/pakingcontrol/models/ParkingSpotModel.class
+com/api/pakingcontrol/controllers/ParkingSpotController.class
+com/api/pakingcontrol/dtos/ParkingSpotDto.class
+com/api/pakingcontrol/services/ParkingSpotService.class
+com/api/pakingcontrol/repositories/ParkingSpotRepository.class

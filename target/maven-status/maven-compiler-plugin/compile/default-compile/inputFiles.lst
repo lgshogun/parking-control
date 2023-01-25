@@ -1,0 +1,6 @@
+/home/lgshogun/Documentos/paking-control/src/main/java/com/api/pakingcontrol/PakingControlApplication.java
+/home/lgshogun/Documentos/paking-control/src/main/java/com/api/pakingcontrol/controllers/ParkingSpotController.java
+/home/lgshogun/Documentos/paking-control/src/main/java/com/api/pakingcontrol/dtos/ParkingSpotDto.java
+/home/lgshogun/Documentos/paking-control/src/main/java/com/api/pakingcontrol/services/ParkingSpotService.java
+/home/lgshogun/Documentos/paking-control/src/main/java/com/api/pakingcontrol/models/ParkingSpotModel.java
+/home/lgshogun/Documentos/paking-control/src/main/java/com/api/pakingcontrol/repositories/ParkingSpotRepository.java
